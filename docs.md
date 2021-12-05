@@ -1,4 +1,3 @@
-#Hello
-This is a cool thing. This is the first line
+This documentation describes how  use te Pavel robotic toothbrush.
 
-##YOLO
+Note that this toothbrushis totally safe to use for children, adults, or pets.
